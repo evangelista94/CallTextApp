@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CallTextApp</string>
+    <string-array name="contact_names">
+        <item>Mom</item>
+        <item>Dad</item>
+        <item>Sis</item>
+    </string-array>
+
+    <string name="sms_body">Hi</string>
+
+    <string-array name="contact_numbers">
+        <item>777-777-7777</item>
+        <item>888-888-8888</item>
+        <item>999-999-9999</item>
+    </string-array>
+</resources>
+
+
+
